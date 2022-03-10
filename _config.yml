@@ -148,6 +148,7 @@ content:
          - Using RabbitMQ to store new message reminders,reduce data base access pressure
          - In order to solve the storage and query of massive data of first, second and third level comments in Tucao Tiandi, MongoDB is used for storage, which improves storage efficiency and query performance.
          - Uses Redis to cache hotspot query data, which improves system query performance
+         
       - layout: top-middle
         title: Context-Aware Movie Recommendation System
         link: https://gitlab.ewi.tudelft.nl/cs4065/2020-2021/team10
@@ -167,7 +168,7 @@ content:
          - Build a convolutional neural network model with user embedding, movie embedding, and reviewembedding. ｜
          - Design a graph neural network to extract representations of movies and users to do feature enrichment.
          
-        - layout: top-middle
+      - layout: top-middle
         title: Context-Aware Movie Recommendation System
         link: https://gitlab.ewi.tudelft.nl/cs4065/2020-2021/team10
         # link_text: Project Website
