@@ -70,9 +70,9 @@ content:
 #         quote: >
 #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         This project adjusts its recommendations based on user feedback and gives robust, accurate recommendations based on the neural network. 
-         DesignandimplementawebpageviaPythonFlask.
-         Build a convolutional neural network model with user embedding, movieembedding,and reviewembedding. 
+         This project adjusts its recommendations based on user feedback and gives robust, accurate recommendations based on the neural network. ｜
+         Design and implement a web page via Python Flask. ｜
+         Build a convolutional neural network model with user embedding, movie embedding, and reviewembedding. ｜
          Design a graph neural network to extract representations of movies and users to do feature enrichment.
       - layout: top-middle
         title: Super awesome project
