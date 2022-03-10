@@ -15,13 +15,13 @@ website: sc16s2w.github.io
 darkmode: false
 
 # Social links
-# twitter_username: facespics
+twitter_username: facespics
 github_username:  sc16s2w
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: jekyll
+#facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
+instagram_username: jameswgrant
 linkedin_username: Siwei Wang
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -29,10 +29,10 @@ youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
+Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
