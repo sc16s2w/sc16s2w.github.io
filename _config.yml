@@ -72,8 +72,9 @@ content:
         description: | # this will include new lines to allow paragraphs
          This project adjusts its recommendations based on user feedback and gives robust, accurate recommendations based on the neural network. 
          - Design and implement a web page via Python Flask. 
-         - Build a convolutional neural network model with user embedding, movie embedding, and reviewembedding. ｜
+         - Build a convolutional neural network model with user embedding, movie embedding, and reviewembedding. 
          - Design a graph neural network to extract representations of movies and users to do feature enrichment.
+         
       - layout: top-middle
         title: Offensive Language Detection
         link: https://github.com/sc16s2w/nlp_SemEval
@@ -88,11 +89,11 @@ content:
 #         quote: >
 #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         This project aims to tackle the OffensEval 2019 challenge, and there are three subtasks, including offensive language identification, categorization of offense types, and offense target identification. ｜
-         - Fine-tune a BERT based classifier on task A and task C achieved an F1 macro score of 0.8155 for task A and 0.6456 for task C both of which rank 2nd in the competition ｜
-         - Build an RNN model with Glove on taskB, gained an F1 macro score 0.7228(rank 3rd in the competition) ｜
+         This project aims to tackle the OffensEval 2019 challenge, and there are three subtasks, including offensive language identification, categorization of offense types, and offense target identification. 
+         - Fine-tune a BERT based classifier on task A and task C achieved an F1 macro score of 0.8155 for task A and 0.6456 for task C both of which rank 2nd in the competition 
+         - Build an RNN model with Glove on taskB, gained an F1 macro score 0.7228(rank 3rd in the competition) 
          - Solve the problem of data imbalance by threshold adjusting and oversampling.
-        - layout: top-middle
+      - layout: top-middle
         title: Reproducibility Project
         link: https://github.com/sc16s2w/WAMDA
         # link_text: Project Website
@@ -107,19 +108,6 @@ content:
 #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
          Reproduce a paper named WAMDA: Weighted Alignment of Sources for Multi-source Domain Adaptation without using pre-existing code. The paper presents a novel method for Multi-source Domain Adaptation which uses multiple sources to train a predictor based on their internal relevance and their relevance score related to the target.
-       - layout: top-middle
-        title: Context-Aware Movie Recommendation System
-        link: https://gitlab.ewi.tudelft.nl/cs4065/2020-2021/team10
-        # link_text: Project Website
-#         additional_links:
-#           - title:  sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
       - layout: top-middle
         title: Electronic business platform
         link:  https://github.com/sc16s2w/E-shopapplication
@@ -141,7 +129,7 @@ content:
          - Realizing the intelligent filtering and search of commodities by elasticsearch.
          - Realizing the request load balancing and request current limit by nginx.
 
-       - layout: top-middle
+      - layout: top-middle
         title: Social platform
         link: https://github.com/sc16s2w/SocialPlatform
         # link_text: Project Website
@@ -160,7 +148,7 @@ content:
          - Using RabbitMQ to store new message reminders,reduce data base access pressure
          - In order to solve the storage and query of massive data of first, second and third level comments in Tucao Tiandi, MongoDB is used for storage, which improves storage efficiency and query performance.
          - Uses Redis to cache hotspot query data, which improves system query performance
-       - layout: top-middle
+      - layout: top-middle
         title: Context-Aware Movie Recommendation System
         link: https://gitlab.ewi.tudelft.nl/cs4065/2020-2021/team10
         # link_text: Project Website
